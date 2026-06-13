@@ -1,99 +1,86 @@
-<h1 align="center">Hey, I'm Raj Pandav 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Raj%20Pandav&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <b>CS Engineer @ IIIT Surat '28 &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Exploring AI & Intelligent Systems</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raj-pandav-889a67337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajpandav8989@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rajpandav.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://x.com/Rajpandav47">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://komarev.com/ghpvc/?username=Raj-pandav">
+    <img src="https://komarev.com/ghpvc/?username=Raj-pandav&label=Profile%20views&color=00FFFF&style=flat-square" alt="Raj-pandav's profile views" />
   </a>
 </p>
 
----
+## 📌 About Me
+- 🚀 Two client websites built and deployed. The learning never stopped there.
+- 🤖 Currently obsessed with understanding AI from the inside — not just the surface.
+- ♟️ Chess player. Former Kabaddi competitor. Cricket for fun. Strategy in everything.
+- 📍 IIIT Surat · Building things that matter
+- 📬 rajpandav8989@gmail.com
 
-### 🧠 About Me
 
-```text
-I build things that work in the real world.
-```
+## 🧠 My Focus Areas
+- Full-Stack Engineering · Deployed Production Projects
+- Exploring the Architecture of Intelligent Systems
+- Data Structures · Algorithms · Competitive Problem Solving
+- Building a Career at the Intersection of Web & AI
 
-- 🚀 Shipped **two business websites** for real clients — built and deployed end to end
-- 🤖 Currently going deep into **AI agents, LLM workflows, and intelligent systems**
-- 💡 Not just using AI tools — understanding how they actually work under the hood
-- ♟️ Chess player. Cricket fan. Former Kabaddi competitor.
-- 📍 Greater Surat Area, India
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 🤖 Currently Exploring
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Workflows-7B2FBE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-00C9A7?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj-pandav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-pandav&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-pandav&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/rajpandav/">
-    <img src="https://leetcard.jacoblin.cool/rajpandav?theme=dark&font=Nunito&ext=heatmap" />
+  <a href="https://github.com/Raj-pandav">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raj-pandav&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Raj-pandav's GitHub Stats" />
   </a>
 </p>
 
----
 
-### 📬 Let's Connect
+## 🛠️ Languages & Tools
 
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  Got an interesting project, internship opportunity, or just want to talk tech?<br/>
-  <a href="mailto:rajpandav8989@gmail.com"><b>rajpandav8989@gmail.com</b></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
 </p>
 
----
-
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raj-pandav&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
 </p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
