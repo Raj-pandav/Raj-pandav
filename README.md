@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:4B0082,50:7B2FBE,100:a371f7&text=Raj%20Pandav&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65&stroke=FFFFFF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:4B0082,50:7B2FBE,100:a371f7&text=Raj%20Pandav&fontSize=60&fontColor=00FF7F&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=00FF7F&descAlignY=65&stroke=00FF7F&strokeWidth=1" width="100%"/>
 
 ## 📌 About Me
 
